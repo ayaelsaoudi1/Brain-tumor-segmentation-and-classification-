@@ -28,4 +28,7 @@ We leveraged the powerful capabilities of the **PyQt5** library to create a user
 
 The graphical interface was designed to be intuitive, offering an accessible platform for clinicians and researchers to interact with the system. Figure 43 below showcases the GUI, where users can select an MRI image, process it by clicking the "Detect" button, and view both the tumor segmentation and classification result.
 
+![image](https://github.com/user-attachments/assets/37d70258-c9c0-4028-94e9-e817d56a0816)
+
+
 For more information about the project, check the [report here](https://github.com/ayaelsaoudi1/Brain-tumor-segmentation-and-classification-/blob/main/Brain%20Tumor%20Segmentation%20and%20Classification.pdf).
