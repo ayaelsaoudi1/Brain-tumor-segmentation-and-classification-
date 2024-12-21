@@ -26,7 +26,7 @@ The dataset used to train and test the CNN model is similarly sourced from Kaggl
 
 We leveraged the powerful capabilities of the **PyQt5** library to create a user-friendly graphical user interface (GUI). PyQt5, a Python binding for the Qt framework, enabled us to develop a feature-rich, cross-platform desktop application. This interactive interface allowed users to upload MRI images, detect tumors, and view results such as segmented tumor images and classifications of tumor types.
 
-The graphical interface was designed to be intuitive, offering an accessible platform for clinicians and researchers to interact with the system. Figure 43 below showcases the GUI, where users can select an MRI image, process it by clicking the "Detect" button, and view both the tumor segmentation and classification result.
+The graphical interface was designed to be intuitive, offering an accessible platform for clinicians and researchers to interact with the system. Figure below showcases the GUI, where users can select an MRI image, process it by clicking the "Detect" button, and view both the tumor segmentation and classification result.
 
 ![image](https://github.com/user-attachments/assets/37d70258-c9c0-4028-94e9-e817d56a0816)
 
